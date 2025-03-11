@@ -12,7 +12,7 @@ An API to shorten long URLs as is done on Google Forms. This is a sample solutio
 ## Installation
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/idongesit98/Workout-Api-Tracker.git
+git clone https://github.com/idongesit98/URL-Shortener.git
 ```
 2. **Install dependencies**:
 ```bash
